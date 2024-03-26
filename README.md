@@ -1,5 +1,3 @@
- Welcome to InnoVision ABN search tool.
-
 Welcome to our user-friendly app designed to help you easily search for businesses based on business activities. Whether you're looking for construction services, specific business activities, or detailed company information, our app is here to assist you. Below, we've outlined the key features and functionalities that you can utilize while using our app.
 *Note: Our ABN numbers may yield a list indicating that they were obtained from a government tool for looking up ABNs, where the postcode entered differs from the postcode returned by the tool.
 
@@ -40,8 +38,6 @@ Users can save their searches as a downloadable.csv file from within our applica
 Our application may re-scrape the business website in response to your search for the most recent ABN numbers; if no such number is found, we will re-search using an ABN lookup utility provided by the Australian government.
 
 How to deploy our application:
-
-Users could download our project coding at https://github.com/fattyhhh/WHS_iLab2_innovation.
 
 The user could then navigate to our project and execute the command below to deploy our application to their local network: 
 
